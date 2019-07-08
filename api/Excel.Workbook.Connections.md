@@ -23,6 +23,9 @@ _expression_.**Connections**
 
 _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 
+## Remarks
+
+Returns a **[Connections](Excel.Connections.md)** collection of WorkbookConnection's. Can be used to add Query style search.
 
 ## Example
 
